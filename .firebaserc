@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-fotos-d920b": {
+      "hosting": {
+        "fotosfirebase": [
+          "fir-fotos-d920b"
+        ]
+      }
+    }
+  }
+}
